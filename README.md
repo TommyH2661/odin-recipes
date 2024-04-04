@@ -1,1 +1,1 @@
-This is a basic website displaying a few of my favourite recipes, built to practice HTML and CSS
+This is a basic website displaying a few of my favourite recipes, built to practice HTML and CSS.
